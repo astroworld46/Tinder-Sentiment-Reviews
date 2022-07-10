@@ -5,4 +5,4 @@ Tinder is one of the most popular dating applications. It connects people having
 The dataset is derived from Kaggle-(https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review)
 
 
-This project is done for learning purposes and all thanks to Thecleverprogrammer website for their beginner data science projects and this current project is one among them.
+This project is done for learning purposes and all thanks to Thecleverprogrammer website for their beginner data science projects and this current project is one among them. (https://thecleverprogrammer.com/2022/05/24/tinder-reviews-sentiment-analysis-using-python/)
